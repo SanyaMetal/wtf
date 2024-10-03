@@ -1,0 +1,6 @@
+1,WTF,false
+2,OMG,false
+3,JACKSON,false
+4,SWAG,false
+5,2PAC,false
+6,HYPE,false
